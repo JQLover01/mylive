@@ -2,7 +2,6 @@
 抖音4K50P世界杯场次一,http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
 抖音4K50P世界杯场次二,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
 抖音 4K 50P世界杯源-备,http://124.220.17.172/dy.php?id=yd
-中国之声视频直播间[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/d1fa5ca2cb01cba4f6ca59deec448b69d80feb6eef665764e2be0ba69cdec1a1.m3u8
 
 卡塔尔世界杯主题曲[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/b16f3682314075ae7c06a96ecc00ca45a4d7ba16888dac93084c9aec2289a719.ctv
 
@@ -10,35 +9,7 @@
 
 法国世界杯主题曲[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/522b8ce72b30cf434a22aa9f83ec85cd653386deecb84b5755993562844e9f5d.ctv
 
-中国之声视频直播间[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/446cf6c5784fd15568ae2dbedfd4899dd40fee186ce70dab5d9cb79b3b033a8e.m3u8
 
-2018世界杯总决赛[1280x720][h264xaac][geo-limited], https://epg.pm/stream/5c7b4629e1e76a7b813077ba59169429fc8216ca834ccc95f8d0abc0d403754b.m3u8
-
-吉祥物的一天[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/c72b262bc7115e8cc7aeec3e71555916e95bb8bb471337f08a1c2c4acc22e7b3.ctv
-
-卡塔尔世界杯吉祥物[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/447a2cdeb7881a04de1e6ddcd603d0151d629a1965637aa759a91a0dcd8b7935.ctv
-
-2018世界杯三四名决赛[1280x720][h264xaac][geo-limited], https://epg.pm/stream/e676f0656c62bcc99c0bab488d1085b25614bd3ee6cc4f5ab048846f1795fd1a.m3u8
-
-凤凰卫视[1920x1080][h264xmp2], https://epg.pm/stream/3f05bc727bbec1f6377ae9f6eeeb5d7139ff8ded6ea2def9a7aa296f40d044b5.m3u8
-
-凤凰资讯[1920x1080][h264xmp2], https://epg.pm/stream/b687c3dd75c33436cff326e5b7b310425313098b1afacfcfb5e0c1f8931307b0.m3u8
-
-无线新闻[1920x1080][h264xaac], https://epg.pm/stream/2abb9624529e1694550ac5ed63f7de6406c57ae562084307f86b19d71de45225.m3u8
-
-无线财经[1920x1080][h264xaac], https://epg.pm/stream/2d5415026e82dc658033889c8cf3322380a4fc82d8430ac2fdfecdfa26c5d599.m3u8
-
-TVB翡翠台[1920x1080][h264xaac], https://epg.pm/stream/86211d751a949ef16e85561dee4327299aca30169ae0fbb278577cc482a51b68.m3u8
-
-RHK32[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/34932c78efd8ca8765b38a3353c67f658ae8b6108109e58038c7e7fbc75d3dbb.m3u8
-
-RHK31[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/5136fc78cfebf9d880c5e61a7d4cbb230900680730d23648dbdbd648b5092df2.m3u8
-
-经典功夫台[1280x720][aacxh264][geo-limited], https://epg.pm/stream/3aa09addcdcadb3e466188332b9e0e26322ecaef81f94f0d88e3c48f77ef8cd5.m3u8
-
-凤凰影视[1920x1080][h264xmp2], https://epg.pm/stream/9a96d46d7d19f84ffceeffa9f4da4d04110447809520f75c324ba73f4b110857.m3u8
-
-RHK33[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/d3776266e3e4fa940a9514e21797e486eade27f6aed777659ff29160a4b6b8d8.m3u8
 CCTV5-HD-移动,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-HD-移动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-HD-移动,http://124.220.17.172/shijiebei/sjb.php?id=3007tt
@@ -1540,11 +1511,11 @@ CGTN,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225813/inde
 辽宁卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 辽宁卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225832/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 龙岩综合,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-咪咕,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-咪咕,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-咪咕,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-咪咕,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-咪咕,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕2,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕3,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕4,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕5,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 南方卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 南平,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 南平2,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -1805,11 +1776,11 @@ CGTN,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225813/inde
 辽宁卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 辽宁卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225832/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 龙岩综合,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-咪咕,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-咪咕,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-咪咕,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-咪咕,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-咪咕,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕1,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227189/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕2,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕3,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227228/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕4,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227107/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+咪咕5,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227158/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 南方卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 南平,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 南平2,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -2812,6 +2783,25 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 东森洋片,http://120.84.96.62:808/hls/33/index.m3u8?blog.ntnas.top
 纬来体育,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
 好莱坞电影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+凤凰卫视[1920x1080][h264xmp2], https://epg.pm/stream/3f05bc727bbec1f6377ae9f6eeeb5d7139ff8ded6ea2def9a7aa296f40d044b5.m3u8
+
+凤凰资讯[1920x1080][h264xmp2], https://epg.pm/stream/b687c3dd75c33436cff326e5b7b310425313098b1afacfcfb5e0c1f8931307b0.m3u8
+
+无线新闻[1920x1080][h264xaac], https://epg.pm/stream/2abb9624529e1694550ac5ed63f7de6406c57ae562084307f86b19d71de45225.m3u8
+
+无线财经[1920x1080][h264xaac], https://epg.pm/stream/2d5415026e82dc658033889c8cf3322380a4fc82d8430ac2fdfecdfa26c5d599.m3u8
+
+TVB翡翠台[1920x1080][h264xaac], https://epg.pm/stream/86211d751a949ef16e85561dee4327299aca30169ae0fbb278577cc482a51b68.m3u8
+
+RHK32[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/34932c78efd8ca8765b38a3353c67f658ae8b6108109e58038c7e7fbc75d3dbb.m3u8
+
+RHK31[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/5136fc78cfebf9d880c5e61a7d4cbb230900680730d23648dbdbd648b5092df2.m3u8
+
+经典功夫台[1280x720][aacxh264][geo-limited], https://epg.pm/stream/3aa09addcdcadb3e466188332b9e0e26322ecaef81f94f0d88e3c48f77ef8cd5.m3u8
+
+凤凰影视[1920x1080][h264xmp2], https://epg.pm/stream/9a96d46d7d19f84ffceeffa9f4da4d04110447809520f75c324ba73f4b110857.m3u8
+
+RHK33[1920x1080][h264xaac][geo-limited], https://epg.pm/stream/d3776266e3e4fa940a9514e21797e486eade27f6aed777659ff29160a4b6b8d8.m3u8
 美亚电影台,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 探索亚洲,http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
 美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
