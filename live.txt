@@ -1779,113 +1779,54 @@ CGTN,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225813/inde
 
 
 📺歌华有线,#genre#
-CCTV1HD,http://yfsv.vsd.gehua.net.cn/live/CCTV1HD_6000.m3u8
-CCTV2HD,http://yfsv.vsd.gehua.net.cn/live/CCTV2HD_6000.m3u8
-CCTV3HD,http://yfsv.vsd.gehua.net.cn/live/CCTV3HD_6000.m3u8
-CCTV4HD,http://yfsv.vsd.gehua.net.cn/live/CCTV4HD_6000.m3u8
-CCTV5HD,http://yfsv.vsd.gehua.net.cn/live/CCTV5HD_6000.m3u8
-CCTV5+HD,http://yfsv.vsd.gehua.net.cn/live/CCTV5plusHD_6000.m3u8
-CCTV6HD,http://yfsv.vsd.gehua.net.cn/live/CCTV6HD_6000.m3u8
-CCTV7HD,http://yfsv.vsd.gehua.net.cn/live/CCTV7HD_6000.m3u8
-CCTV8HD,http://yfsv.vsd.gehua.net.cn/live/CCTV8HD_6000.m3u8
-CCTV9HD,http://yfsv.vsd.gehua.net.cn/live/CCTV9HD_6000.m3u8
-CCTV10HD,http://yfsv.vsd.gehua.net.cn/live/CCTV10HD_6000.m3u8
-CCTV11HD,http://yfsv.vsd.gehua.net.cn/live/CCTV11HD_2000.m3u8
-CCTV12HD,http://yfsv.vsd.gehua.net.cn/live/CCTV12HD_6000.m3u8
-CCTV13HD,http://yfsv.vsd.gehua.net.cn/live/CCTV13HD_2000.m3u8
-CCTV14HD,http://yfsv.vsd.gehua.net.cn/live/CCTV14HD_6000.m3u8
-CCTV15HD,http://yfsv.vsd.gehua.net.cn/live/CCTV15HD_6000.m3u8
-CCTV16HD,http://yfsv.vsd.gehua.net.cn/live/CCTV16HD_6000.m3u8
-CCTV17HD,http://yfsv.vsd.gehua.net.cn/live/CCTV17HD_6000.m3u8
-CGTN,http://yfsv.vsd.gehua.net.cn/live/CGTN_2000.m3u8
-歌华导视,http://yfsv.vsd.gehua.net.cn/live/GeHuadaoshiHD_6000.m3u8
-CHC家庭影院,http://yfsv.vsd.gehua.net.cn/live/CHC_2000.m3u8
-CHC高清电影,http://yfsv.vsd.gehua.net.cn/live/CHCHD_6000.m3u8
-CHC动作电影,http://yfsv.vsd.gehua.net.cn/live/Motion_2000.m3u8
-都市剧场,http://yfsv.vsd.gehua.net.cn/live/DuShiJuChangHD_6000.m3u8
-浙江卫视,http://yfsv.vsd.gehua.net.cn/live/ZheJiangHD_6000.m3u8
-北京卫视,http://yfsv.vsd.gehua.net.cn/live/BTV1HD_6000.m3u8
-广西卫视,http://yfsv.vsd.gehua.net.cn/live/GuangXiHD_6000.m3u8
-辽宁卫视,http://yfsv.vsd.gehua.net.cn/live/LiaoNingHD_6000.m3u8
-安徽卫视,http://yfsv.vsd.gehua.net.cn/live/AnHuiHD_6000.m3u8
-江苏卫视,http://yfsv.vsd.gehua.net.cn/live/JiangSuHD_6000.m3u8
-东方卫视,http://yfsv.vsd.gehua.net.cn/live/DongFangHD_6000.m3u8
-东南卫视,http://yfsv.vsd.gehua.net.cn/live/FuJianHD_6000.m3u8
-湖南卫视,http://yfsv.vsd.gehua.net.cn/live/HuNanHD_6000.m3u8
-湖北卫视,http://yfsv.vsd.gehua.net.cn/live/HuBeiHD_6000.m3u8
-广东卫视,http://yfsv.vsd.gehua.net.cn/live/GuangDongHD_6000.m3u8
-深圳卫视,http://yfsv.vsd.gehua.net.cn/live/ShenZhenHD_6000.m3u8
-四川卫视,http://yfsv.vsd.gehua.net.cn/live/SiChuanHD_6000.m3u8
-山东卫视,http://yfsv.vsd.gehua.net.cn/live/ShanDongHD_6000.m3u8
-河南卫视,http://yfsv.vsd.gehua.net.cn/live/HeNanHD_6000.m3u8
-河北卫视,http://yfsv.vsd.gehua.net.cn/live/HeBeiHD_6000.m3u8
-江西卫视,http://yfsv.vsd.gehua.net.cn/live/JiangXiHD_6000.m3u8
-天津卫视,http://yfsv.vsd.gehua.net.cn/live/TianJinHD_6000.m3u8
-重庆卫视,http://yfsv.vsd.gehua.net.cn/live/ChongQingHD_6000.m3u8
-黑龙江卫视,http://yfsv.vsd.gehua.net.cn/live/HeiLongJiangHD_6000.m3u8
-吉林卫视,http://yfsv.vsd.gehua.net.cn/live/JiLinWeiShiHD_6000.m3u8
-海南卫视,http://yfsv.vsd.gehua.net.cn/live/LvYouWeiShiHD_6000.m3u8
-内蒙古卫视,http://yfsv.vsd.gehua.net.cn/live/NeiMengGuHD_2000.m3u8
-山西卫视,http://yfsv.vsd.gehua.net.cn/live/ShanXiHD_2000.m3u8
-陕西卫视,http://yfsv.vsd.gehua.net.cn/live/ShannXiHD_2000.m3u8
-云南卫视,http://yfsv.vsd.gehua.net.cn/live/YunNanHD_2000.m3u8
-兵团卫视,http://yfsv.vsd.gehua.net.cn/live/BTTVHD_2000.m3u8
-贵州卫视,http://yfsv.vsd.gehua.net.cn/live/GuiZhouHD_2000.m3u8
-青海卫视,http://yfsv.vsd.gehua.net.cn/live/QingHaiHD_2000.m3u8
-西藏卫视,http://yfsv.vsd.gehua.net.cn/live/XiZangHD_2000.m3u8
-新疆卫视,http://yfsv.vsd.gehua.net.cn/live/XinJiangHD_2000.m3u8
-甘肃卫视,http://yfsv.vsd.gehua.net.cn/live/GanSuHD_2000.m3u8
-厦门卫视,http://yfsv.vsd.gehua.net.cn/live/XiaMenHD_2000.m3u8
-宁夏卫视,http://yfsv.vsd.gehua.net.cn/live/NingXiaHD_2000.m3u8
-北京文艺BTV-2,http://yfsv.vsd.gehua.net.cn/live/BTVwenyiHD_6000.m3u8
-北京科教BTV-3,http://yfsv.vsd.gehua.net.cn/live/BTVKeJiaoHD_6000.m3u8
-北京科教BTV-3,http://yfsv.vsd.gehua.net.cn/live/BTV3HD_2000.m3u8
-北京影视BTV-4,http://yfsv.vsd.gehua.net.cn/live/BTV4HD_6000.m3u8
-北京财经BTV-5,http://yfsv.vsd.gehua.net.cn/live/BTVCaiJingHD_6000.m3u8
-北京财经BTV-5,http://yfsv.vsd.gehua.net.cn/live/BTV5HD_2000.m3u8
-北京体育休闲BTV-6,http://yfsv.vsd.gehua.net.cn/live/BTVjishiHD_6000.m3u8
-北京生活BTV-7,http://yfsv.vsd.gehua.net.cn/live/BTVShengHuoHD_6000.m3u8
-北京生活BTV-7,http://yfsv.vsd.gehua.net.cn/live/BTV7HD_2000.m3u8
-北京青年BTV-8,http://yfsv.vsd.gehua.net.cn/live/BTVQingNianHD_6000.m3u8
-北京青年BTV-8,http://yfsv.vsd.gehua.net.cn/live/BTV8HD_2000.m3u8
-北京新闻BTV-9,http://yfsv.vsd.gehua.net.cn/live/BTV9HD_6000.m3u8
-北京卡酷BTV-10,http://yfsv.vsd.gehua.net.cn/live/BTV10HD_2000.m3u8
-京视剧场,http://yfsv.vsd.gehua.net.cn/live/JinShiJuChang_2000.m3u8
-生态环境,http://yfsv.vsd.gehua.net.cn/live/XinYuLe_2000.m3u8
-中国天气,http://yfsv.vsd.gehua.net.cn/live/ChinaQiXiangPinDao_2000.m3u8
-乐游,http://yfsv.vsd.gehua.net.cn/live/QuanJiShiHD_6000.m3u8
-CETV1,http://yfsv.vsd.gehua.net.cn/live/CETV1HD_6000.m3u8
-CETV3,http://yfsv.vsd.gehua.net.cn/live/CETV3HD_2000.m3u8
-CETV4,http://yfsv.vsd.gehua.net.cn/live/CETV4HD_2000.m3u8
-早期教育,http://yfsv.vsd.gehua.net.cn/live/ZaoQiJiaoYuHD_2000.m3u8
-爱家购物,http://yfsv.vsd.gehua.net.cn/live/AiJiaGouWuHD_6000.m3u8
-时尚购物,http://yfsv.vsd.gehua.net.cn/live/ShiShangGouWuHD_2000.m3u8
-优购物,http://yfsv.vsd.gehua.net.cn/live/YouGouWuHD_2000.m3u8
-家有购物,http://yfsv.vsd.gehua.net.cn/live/JiaYouGouWuHD_2000.m3u8
-动漫秀场,http://yfsv.vsd.gehua.net.cn/live/DongManXiuChangHD_6000.m3u8
-游戏风云,http://yfsv.vsd.gehua.net.cn/live/YouXiFengYunHD_6000.m3u8
-四海钓鱼,http://yfsv.vsd.gehua.net.cn/live/SiHaiDiaoYuHD_2000.m3u8
-法治天地,http://yfsv.vsd.gehua.net.cn/live/FaZhiTianDiHD_2000.m3u8
-置业频道,http://yfsv.vsd.gehua.net.cn/live/ZhiYePinDaoHD_2000.m3u8
-中华美食,http://yfsv.vsd.gehua.net.cn/live/ZhongHuaMeiShiHD_2000.m3u8
-环球旅游,http://yfsv.vsd.gehua.net.cn/live/HuanQiuLvYouHD_2000.m3u8
-中视购物,http://yfsv.vsd.gehua.net.cn/live/ZhongShiGouWuHD_2000.m3u8
-央广购物,http://yfsv.vsd.gehua.net.cn/live/YangShiGouWu_2000.m3u8
-聚鲨环球精选,http://yfsv.vsd.gehua.net.cn/live/GHSHD_1200.m3u8
-动感音乐,http://yfsv.vsd.gehua.net.cn/live/DongGanYinYueHD_2000.m3u8
-收藏天下,http://yfsv.vsd.gehua.net.cn/live/ShouCangTianXiaHD_2000.m3u8
-东方财经,http://yfsv.vsd.gehua.net.cn/live/DongFangCaiJingHD_6000.m3u8
-中华特产,http://yfsv.vsd.gehua.net.cn/live/KaoShiZaiXian_2000.m3u8
-优优宝贝,http://yfsv.vsd.gehua.net.cn/live/YouYouBaoBeiHD_2000.m3u8
-弈坛春秋,http://yfsv.vsd.gehua.net.cn/live/YiTanChunQiuHD_2000.m3u8
-老故事,http://yfsv.vsd.gehua.net.cn/live/LaoGuShi_2000.m3u8
-发现之旅,http://yfsv.vsd.gehua.net.cn/live/FaXianZhiLvHD_2000.m3u8
-财富天下,http://yfsv.vsd.gehua.net.cn/live/CaiFuTianXiaHD_2000.m3u8
-环球奇观,http://yfsv.vsd.gehua.net.cn/live/HuanQiuQiGuanHD_2000.m3u8
-天元围棋,http://yfsv.vsd.gehua.net.cn/live/TianYuanWeiQiHD_2000.m3u8
-书画频道,http://yfsv.vsd.gehua.net.cn/live/ShuHuaPinDao_2000.m3u8
-茶频道,http://yfsv.vsd.gehua.net.cn/live/ChaPinDaoHD_2000.m3u8
-足球频道,http://yfsv.vsd.gehua.net.cn/live/ZuQiuHD_6000.m3u8
+CCTV1 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV2 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV3 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv3hd8m/8000000/mnf.m3u8
+CCTV4 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV5 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5+ 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV6 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV7 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV9 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV10 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV11 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV12 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV13 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV14 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV15 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV16 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV17 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+江苏卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+广西卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+四川卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
+上海卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+湖南卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+浙江卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+东方卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+山东卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/sdwshd8m/8000000/mnf.m3u8
+北京卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+天津卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
+辽宁卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+安徽卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
+黑龙江卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+广东卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
+深圳卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+湖北卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
+劲爆体育 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+欢笑剧场 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
+快乐垂钓 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
+金鹰纪实 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+戏曲精选 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
+河南卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+河北卫视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+第一财经 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+上视新闻 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海都市 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+上海纪实 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+东方影视 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
+五星体育 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+上视外语 8M,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program
 
 
 
@@ -3890,6 +3831,24 @@ NewTV爱情喜剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.
 
 
 🥝经典影院,#genre#
+武侠经典电影,http://data.3g.yy.com/live/hls/1353587611/1353587611
+绝版鬼片,http://mmitv.top/pltv/yy.php?id=1355479288
+香港鬼片,http://mmitv.top/pltv/yy.php?id=1355263385
+香港鬼片2,http://mmitv.top/pltv/yy.php?id=135479211
+小情宝鬼片,http://mmitv.top/pltv/yy.php?id=1355364378
+大雄经典港片,http://mmitv.top/pltv/yy.php?id=1382660958
+雯子抗饿,http://mmitv.top/pltv/yy.php?id=1456829119
+菲菲看港剧,http://mmitv.top/pltv/yy.php?id=1461993663
+全球谍战剧,http://mmitv.top/pltv/yy.php?id=1382736817
+余小二,http://mmitv.top/pltv/yy.php?id=422378
+超燃科幻,http://mmitv.top/pltv/yy.php?id=1382736835
+华语影院,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
+星光影院,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+全球大片,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+热门剧场,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
+谍战剧场,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
+青春动漫,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
+宝宝动画,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
 华语影院2,http://epg.112114.xyz/douyu/434971
 特辑影院,http://epg.112114.xyz/douyu/3637778
 邵氏影院2,http://epg.112114.xyz/douyu/4246519
