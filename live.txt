@@ -1,7 +1,7 @@
 🔍信号测试,#genre#
 信号测试 4M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 信号测试 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+迪士尼动画,https://s6.hopslan.com/disneyc/index.m3u8
 
 
 
