@@ -6,6 +6,9 @@
 
 
 
+
+
+
 ⚽️4K频道,#genre#
 抖音4K50P世界杯场次一,http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
 抖音4K50P世界杯场次二,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
@@ -3173,6 +3176,41 @@ NASA,http://158.101.151.82:9000/jmsytb.m3u8?c=24
 CNA,http://158.101.151.82:9000/jmsytb.m3u8?c=25
 CGTN,http://158.101.151.82:9000/jmsytb.m3u8?c=28
 Sky News,http://158.101.151.82:9000/jmsytb.m3u8?c=29
+
+
+环球,http://www.yshmzmc.top/gtjm.php?id=live1002
+国家地理现场,http://www.yshmzmc.top/gtjm.php?id=live1003
+动物星球,http://www.yshmzmc.top/gtjm.php?id=live1004
+TLC,http://www.yshmzmc.top/gtjm.php?id=live1005
+Babytv,http://www.yshmzmc.top/gtjm.php?id=live1007
+EBC,http://www.yshmzmc.top/gtjm.php?id=live1008
+纬来体育,http://www.yshmzmc.top/gtjm.php?id=live1011
+东森新闻,http://www.yshmzmc.top/gtjm.php?id=live1014
+中天新闻,http://www.yshmzmc.top/gtjm.php?id=live1015
+三立都会,http://www.yshmzmc.top/gtjm.php?id=live1020
+中天娱乐,http://www.yshmzmc.top/gtjm.php?id=live1023
+香港卫视中文,http://www.yshmzmc.top/gtjm.php?id=live1024
+HBO,http://www.yshmzmc.top/gtjm.php?id=live1029
+香港卫视电影,http://www.yshmzmc.top/gtjm.php?id=live1031
+Star Movies,http://www.yshmzmc.top/gtjm.php?id=live1032
+Star World,http://www.yshmzmc.top/gtjm.php?id=live1040
+八大第一台,http://www.yshmzmc.top/gtjm.php?id=live1043
+Top News,http://www.yshmzmc.top/gtjm.php?id=live1066
+Eleven1,http://www.yshmzmc.top/gtjm.php?id=live1069
+Eleven2,http://www.yshmzmc.top/gtjm.php?id=live1072
+年代新闻,http://www.yshmzmc.top/gtjm.php?id=live1077
+三立新闻,http://www.yshmzmc.top/gtjm.php?id=live1079
+年代much,http://www.yshmzmc.top/gtjm.php?id=live2002
+香港卫视中文,http://www.yshmzmc.top/gtjm.php?id=live2021
+香港卫视电影,http://www.yshmzmc.top/gtjm.php?id=live2022
+Star Movies,http://www.yshmzmc.top/gtjm.php?id=live2023
+Star World,http://www.yshmzmc.top/gtjm.php?id=live2024
+国家地理现场,http://www.yshmzmc.top/gtjm.php?id=live2025
+BT Sports 1,http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/9.m3u
+BT Sports 2,http://iptv.ndasat.xyz:88/live/226448369414368/226448369414368/10.m3u
+
+
+
 漫威影片,http://epg.112114.xyz/douyu/6140589
 东森戏剧1,http://45.136.244.135:2095/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
 天映电影台,https://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
@@ -3180,13 +3218,13 @@ Sky News,http://158.101.151.82:9000/jmsytb.m3u8?c=29
 东森电影台,https://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 CATV电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
-晴天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-晴天电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
-晴天戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-晴天国际台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-晴天娱乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-蜻洋戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-晴洋卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
+靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖天电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+靖天戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+靖天国际台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+靖天娱乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+靖洋戏剧台,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+靖洋卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 中视,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 華视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
@@ -3331,6 +3369,13 @@ TVB4,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-54443149626
 中國環球電視,http://live.cgtn.com/500/prog_index.m3u8
 中天综合台[1920x1080],https://epg.pm/stream/e9f2a5f708d140abd9bec2933864f4acca8c82d0ee37e36f70a3f1b690059feb.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+CHC高清电影,http://wabc.ml/sxg.php?id=lnwsCHC-HDH265_4000
+CHC家庭电影,http://wabc.ml/sxg.php?id=jbtygqCHCjtyyH265_4000
+IPTV高清院线,http://home.111818.xyz:8888/udp/239.76.252.217:9000
+CBN每日影院,http://121.51.249.103/livehkkp.chinamcache.com/live/mryy_4000.m3u8
+CBN风尚生活,http://121.51.249.103/livehkkp.chinamcache.com/live/fssh_4000.m3u8
+CBN幸福剧场,http://121.51.249.103/livehkkp.chinamcache.com/live/xfjc_4000.m3u8
+CBN幸福娱乐,http://121.51.249.103/livehkkp.chinamcache.com/live/xfyl_4000.m3u8
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 CHC动作电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
