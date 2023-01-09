@@ -3156,6 +3156,23 @@ Eurosport2,https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/s
 凤凰资讯ᴴᴰ,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+东森新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=2
+TVBS新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=3
+TVBS新闻2,http://158.101.151.82:9000/jmsytb.m3u8?c=4
+中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
+台视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=7
+中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
+三立Live,http://158.101.151.82:9000/jmsytb.m3u8?c=9
+France 24,http://158.101.151.82:9000/jmsytb.m3u8?c=12
+Top News,http://158.101.151.82:9000/jmsytb.m3u8?c=13
+寰宇新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=14
+iNews,http://158.101.151.82:9000/jmsytb.m3u8?c=16
+mNews,http://158.101.151.82:9000/jmsytb.m3u8?c=19
+News,http://158.101.151.82:9000/jmsytb.m3u8?c=21
+NASA,http://158.101.151.82:9000/jmsytb.m3u8?c=24
+CNA,http://158.101.151.82:9000/jmsytb.m3u8?c=25
+CGTN,http://158.101.151.82:9000/jmsytb.m3u8?c=28
+Sky News,http://158.101.151.82:9000/jmsytb.m3u8?c=29
 漫威影片,http://epg.112114.xyz/douyu/6140589
 东森戏剧1,http://45.136.244.135:2095/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
 天映电影台,https://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
@@ -3175,18 +3192,6 @@ TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 華视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 中视经典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-寰宇新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=14
-中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
-中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
-三立新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=9
-三立Live,http://tv.redrainl.site:9500/live.m3u8?c=6
-东森新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=2
-TVBS新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=3
-TVBS新闻2,http://158.101.151.82:9000/jmsytb.m3u8?c=4
-Sky News,http://tv.redrainl.site:9500/live.m3u8?c=8
-LNEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=16
-MNEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=19
-NEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=23
 公视戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
 彩昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 華视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
