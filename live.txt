@@ -2,7 +2,7 @@
 信号测试 4M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 信号测试 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 迪士尼动画,https://s6.hopslan.com/disneyc/index.m3u8
-
+古装剧场,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 
 
 
@@ -3175,6 +3175,18 @@ TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 華视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 中视经典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+寰宇新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=14
+中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
+中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
+三立新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=9
+三立Live,http://tv.redrainl.site:9500/live.m3u8?c=6
+东森新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=2
+TVBS新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=3
+TVBS新闻2,http://158.101.151.82:9000/jmsytb.m3u8?c=4
+Sky News,http://tv.redrainl.site:9500/live.m3u8?c=8
+LNEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=16
+MNEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=19
+NEWS,http://158.101.151.82:9000/jmsytb.m3u8?c=23
 公视戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
 彩昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 華视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
