@@ -2245,7 +2245,7 @@ DOXTV,http://baidu.live.cqccn.com/__cl/cg:live/__c/doxtv/__op/default/__f//index
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+萧山新闻综合,,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
@@ -3363,7 +3363,6 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 浙江|浙江经视频道,http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 浙江|留学世界,http://hw-m-l.cztv.com/channels/lantian/channel09/720p.m3u8
 浙江|舟山普陀,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-浙江|萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 浙江|萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 浙江|新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 浙江|新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
